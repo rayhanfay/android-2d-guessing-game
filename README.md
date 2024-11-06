@@ -1,19 +1,19 @@
 # Android 2D Guessing Game 🎮
 
-Android 2D Guessing Game adalah aplikasi game sederhana berbasis Android yang memungkinkan pemain untuk menebak jawaban dari sebuah pertanyaan atau teka-teki. Game ini memiliki antarmuka 2D yang menarik dan dirancang untuk memberikan pengalaman bermain yang menyenangkan dan edukatif.
+The Android 2D Guessing Game is a simple Android-based game application that allows players to guess the answer to a question or riddle. This game features an engaging 2D interface and is designed to provide a fun and educational gaming experience.
 
-## Fitur 📝
-- **Gameplay Interaktif**: Pemain dapat memilih jawaban yang tepat dari beberapa pilihan yang tersedia.
-- **Antarmuka Sederhana**: Desain game 2D yang mudah digunakan dan menarik.
-- **Feedback Jawaban**: Memberikan umpan balik langsung apakah jawaban yang dipilih benar atau salah.
+## Features 📝
+- **Interactive Gameplay**: Players can select the correct answer from multiple choices.
+- **Simple Interface**: Easy-to-use and visually appealing 2D game design.
+- **Answer Feedback**: Provides immediate feedback on whether the chosen answer is correct or incorrect.
 
-## Teknologi yang Digunakan 💻
-- **Bahasa Pemrograman**: Javascript
+## Technologies Used 💻
+- **Programming Language**: JavaScript
 - **Platform**: Construct 2
 
-## Instalasi 📲
+## Installation 📲
 
-1. Clone repositori ini:
+1. Clone this repository:
    ```bash
    git clone https://github.com/rayhanfay/android-2d-guessing-game.git
 
